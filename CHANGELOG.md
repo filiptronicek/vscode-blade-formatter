@@ -1,5 +1,12 @@
 # ChangeLog
 
+## [0.9.0](https://www.github.com/filiptronicek/vscode-blade-formatter/compare/v0.8.5...v0.9.0) (2021-12-08)
+
+
+### Features
+
+* remove the if statements on all separate jobs ([993869f](https://www.github.com/filiptronicek/vscode-blade-formatter/commit/993869fdc6e2a56674e4072ea78a8845bc548f89))
+
 ### [0.8.5](https://www.github.com/shufo/vscode-blade-formatter/compare/v0.8.4...v0.8.5) (2021-11-22)
 
 
