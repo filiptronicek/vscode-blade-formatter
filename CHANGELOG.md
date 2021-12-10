@@ -1,5 +1,12 @@
 # ChangeLog
 
+### [0.9.1](https://www.github.com/filiptronicek/vscode-blade-formatter/compare/v0.9.0...v0.9.1) (2021-12-10)
+
+
+### Fixes
+
+* one last `$version` reference ([803a231](https://www.github.com/filiptronicek/vscode-blade-formatter/commit/803a231fc35088e38c0e8252dcef7c7890d385d8))
+
 ## [0.9.0](https://www.github.com/filiptronicek/vscode-blade-formatter/compare/v0.8.5...v0.9.0) (2021-12-10)
 
 
